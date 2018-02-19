@@ -1,0 +1,117 @@
+.landing{
+background-color: #4a56ad;
+color: white;
+font-family:'Raleway', sans-serif;
+}
+
+.vertical-center {
+display: flex;
+align-items: center;
+}
+
+.landing-middle {
+margin: 0 auto;
+}
+
+#main{
+font-size: 100px;
+}
+
+#main-sub {
+font-size: 24px;
+}
+
+.heading {
+margin-top: 48px;
+font-size: 36px;
+}
+
+.div-bar {
+border: 0.5px solid #4a56ad;
+width: 48px;
+margin: 0 auto;
+margin-bottom: 48px;
+}
+
+.thumbnails{
+width: 80%;
+}
+
+.contact {
+margin-top: 48px;
+color: #494949;
+background-color: #bcbcbc;
+padding-top: 24px;
+padding-bottom: 24px;
+}
+
+.contact-info {
+display: inline;
+}
+
+.project-title {
+margin-bottom: 5px;
+font-family: 'Roboto', sans-serif
+}
+
+#projects {
+margin-top: 48px;
+}
+
+.row {
+margin-top: 24px;
+}
+
+footer  {
+margin-top: 48px;
+}
+
+.skills {
+margin-top: 48px;
+padding-top: 48px;
+padding-bottom: 16px;
+width: 100%;
+background-color: #bcbcbc;
+text-align: center;
+}
+
+.skill-icons {
+font-size: 76px;
+color: #494949;
+margin: 24px;
+}
+
+.project-title {
+margin-top: 16px;
+}
+
+.skills-description {
+color: #494949;
+margin-top: 36px;
+margin-bottom: 16px;
+}
+
+.btn {
+display: block;
+margin: 0px auto;
+margin-top: 36px;
+}
+
+#contact-title {
+font-size: 36px;
+color: black;
+}
+
+.anchor {
+  color: black;
+  text-decoration: none;
+}
+
+.anchor:hover {
+  color: black;
+  text-decoration: none;
+}
+
+.container {
+  text-align: center;
+}
