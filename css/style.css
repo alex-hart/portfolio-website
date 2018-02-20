@@ -42,7 +42,6 @@ padding-bottom: 24px;
 }
 
 .contact-info {
-display: inline;
 }
 
 .project-title {
@@ -134,4 +133,9 @@ color: black;
 
 #contact {
   margin-top: 64px;
+}
+
+.contact-icon {
+  font-size: 44px;
+  margin-top: 24px;
 }
