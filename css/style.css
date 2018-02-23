@@ -21,6 +21,10 @@ font-size: 100px;
 font-size: 24px;
 }
 
+#continue-reading {
+  font-size: 52px;
+}
+
 .heading {
 margin-top: 48px;
 font-size: 36px;
@@ -109,12 +113,12 @@ color: black;
 }
 
 .anchor {
-  color: black;
+  color: inherit;
   text-decoration: none;
 }
 
 .anchor:hover {
-  color: black;
+  color: inherit;
   text-decoration: none;
 }
 
