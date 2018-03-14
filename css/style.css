@@ -158,7 +158,7 @@ footer  {
   transform: scale(1.3);
 }
 
-.test {
+.cv-btn {
   padding-left: 28px;
   padding-right: 28px;
   background-color: white;
@@ -170,7 +170,7 @@ footer  {
   cursor: pointer;
 }
 
-.test:hover {
+.cv-btn:hover {
   background-color: #494949;
   color: white;
 }
