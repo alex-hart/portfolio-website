@@ -47,7 +47,13 @@
   padding-bottom: 24px;
 }
 
-.contact-info {
+.technology-header {
+  margin: 0 0 30px;
+}
+
+.icon-wrapper {
+  max-width: 1120px;
+  margin: 0 auto;
 }
 
 .project-title {
